@@ -1,5 +1,5 @@
 ========
-Usage
+Indoor Charging Kit
 ========
 
 To use this template, simply update it::
